@@ -62,9 +62,6 @@ To access and explore the project, please follow these steps:
 2. Open the Power BI file (`.pbix`) using Power BI Desktop.
 3. Interact with the various pages and visualizations to explore the analysis and make player selections.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 Feel free to reach out if you have any questions or suggestions!
 
