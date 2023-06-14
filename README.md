@@ -1,4 +1,5 @@
-# Project - T20 World Cup Data Analysis Portfolio [https://github.com/kameshrsk/Data-Analysis.git]
+# Data Analysis Portfolio
+# [Project - T20 World Cup Data Analysis Portfolio](https://github.com/kameshrsk/Data-Analysis/tree/main/T20-Data-Analysis)
 
 This repository contains my data analysis project on the recent T20 World Cup, where the goal was to select the best 11 players and form a team. The project involved gathering data, cleaning it, and performing analysis using Power BI.
 
@@ -53,6 +54,23 @@ Furthermore, I created a separate page dedicated to the final selection of the b
 
 To enhance the user experience, I also developed two tooltip pages. These tooltips provide additional information when hovering over the scatter plot charts in the openers' analysis, middle-order analysis, and bowlers' analysis pages. The tooltips display player images, names, countries, roles, and batting or bowling styles accordingly.
 
+
+# [Project - F1 Data Analysis](https://github.com/kameshrsk/Data-Analysis/tree/main/F1-Data-Analysis)
+
+## Summary
+
+The F1 2022 Data Analysis Project explored the performance of teams and drivers in the Formula 1 2022 season. The project involved analyzing race results, driver standings, and team performance to gain insights into their performances. The analysis was presented in a single-page report, showcasing the top teams and drivers, their points, podium finishes, and rankings.
+
+For more details on this project, please visit the [F1 2022 Data Analysis Project](https://github.com/kameshrsk/Data-Analysis/tree/main/F1-Data-Analysis)
+
+# [Project -  Spotify Data Analysis](https://github.com/kameshrsk/Data-Analysis/tree/main/Spotify-Data-analysis)
+
+## Summary
+
+The Spotify Top 100 Songs Data Analysis Project delved into the analysis of the popular songs and artists featured in the Spotify Top 100 Songs dataset. The project involved exploring the rankings of artists and their song performance based on the number of plays. The analysis was presented in a single-page report, highlighting the top-ranking artists and their most-played songs.
+
+For more details on this project, please visit the [Spotify Top 100 Songs Data Analysis Project](https://github.com/kameshrsk/Data-Analysis/tree/main/Spotify-Data-analysis)
+
 ## Getting Started
 
 To access and explore the project, please follow these steps:
@@ -60,7 +78,6 @@ To access and explore the project, please follow these steps:
 1. Clone this repository to your local machine.
 2. Open the Power BI file (`.pbix`) using Power BI Desktop.
 3. Interact with the various pages and visualizations to explore the analysis and make player selections.
-
 
 Feel free to reach out if you have any questions or suggestions!
 
